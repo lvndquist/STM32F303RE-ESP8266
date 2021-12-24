@@ -4,4 +4,4 @@ Has been tested using the F303RE, and L476RG.
 
 See unity_test.c for usage. 
 
-Note this is not an optimal solution, no ring buffer, and unnecessary hash function (commands dont need to return strings...).
+Note this is not an optimal solution, no ring buffer, and unnecessary hash function (commands dont need to return strings...)
