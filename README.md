@@ -8,9 +8,9 @@ Note this is not an optimal solution, no ring buffer, and unnecessary hash funct
 
 ### add /inc/login.h
      #ifndef INC_LOGIN_H_
-		 #define INC_LOGIN_H_
+     #define INC_LOGIN_H_
 
-		 static const char SSID[] = "One Plus 5"; // your ssid
-		 static const char PWD[]  = "password"; // your password
+     static const char SSID[] = "One Plus 5"; // your ssid
+     static const char PWD[]  = "password"; // your password
 
-		 #endif
+     #endif
